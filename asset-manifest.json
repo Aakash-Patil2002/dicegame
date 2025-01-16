@@ -1,15 +1,20 @@
 {
   "files": {
     "main.css": "/dicegame/static/css/main.e6c13ad2.css",
-    "main.js": "/dicegame/static/js/main.4f07aded.js",
+    "main.js": "/dicegame/static/js/main.91ebd188.js",
     "static/media/dices1.png": "/dicegame/static/media/dices1.2f464c136a58a7be2a38.png",
+    "static/media/dice_6.png": "/dicegame/static/media/dice_6.a2a53406987c060210e5.png",
+    "static/media/dice_5.png": "/dicegame/static/media/dice_5.d75598ccacae3d17593e.png",
+    "static/media/dice_4.png": "/dicegame/static/media/dice_4.a5ea27e57d6b32437b09.png",
+    "static/media/dice_3.png": "/dicegame/static/media/dice_3.0754e8c749d82f078b7f.png",
+    "static/media/dice_2.png": "/dicegame/static/media/dice_2.b54ee607c2300f9126d1.png",
     "static/media/dice_1.png": "/dicegame/static/media/dice_1.9a5fddacb503e6ec34ff.png",
     "index.html": "/dicegame/index.html",
     "main.e6c13ad2.css.map": "/dicegame/static/css/main.e6c13ad2.css.map",
-    "main.4f07aded.js.map": "/dicegame/static/js/main.4f07aded.js.map"
+    "main.91ebd188.js.map": "/dicegame/static/js/main.91ebd188.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.4f07aded.js"
+    "static/js/main.91ebd188.js"
   ]
 }
